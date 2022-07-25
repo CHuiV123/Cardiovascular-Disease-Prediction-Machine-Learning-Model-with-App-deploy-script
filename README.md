@@ -58,4 +58,4 @@ Guiness World Record for higest possible cholesterol level cross checking.
 https://www.guinnessworldrecords.com/world-records/highest-triglyceride-level
 
 ## Credits
-This datasets is provided by [Kaggle] [https://www.kaggle.com/rashikrahmanpritom/heart-attack-analysis- prediction-dataset] 
+This datasets is provided by [Kaggle] [Rashik Rahman] [https://www.kaggle.com/rashikrahmanpritom/heart-attack-analysis-prediction-dataset] 
