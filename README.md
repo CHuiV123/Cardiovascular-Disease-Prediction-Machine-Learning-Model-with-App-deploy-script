@@ -13,7 +13,7 @@ This is a machine learning model to predict where a person has cardiovascular di
 # How to Install and Run the Project 
 If you wish to run this model on your pc, you may download "heart.csv" (in dataset folder) together with Heart_attack_training.py and app.py file from the depository section. The selected machine learning models for application development has been uploaded for you as "model.pkl" in under the folder named model. 
 
-To view my application on webpage using local host: Open terminal from your pc > streamlit run " THE LOCATION PATH WHERE U SAVE THE app.py FILE" > Enter > wait for the local host address to appear > click / copy past the local host address to your web browser 
+To view my application on webpage using local host: Open terminal from your pc > streamlit run " THE LOCATION PATH WHERE U SAVE THE app.py FILE" > Enter > wait for the local host address to appear > click / copy paste the local host address to your web browser 
 
 
 Software required: Spyder, Python(preferably the latest version) 
