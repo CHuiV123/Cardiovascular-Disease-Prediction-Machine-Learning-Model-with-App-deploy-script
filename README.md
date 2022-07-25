@@ -51,7 +51,7 @@ Outliers were detected in a few columns, but were not removed after the verifica
 Accuracy of 90%: if more data were collected and input into the model for model retraining purposes, accuracy may have further improvement. 
 
 ** 
-National Library of Medicine for highest distolic reading cross checking. 
+National Library of Medicine for highest diastolic reading cross checking. 
 https://pubmed.ncbi.nlm.nih.gov/7741618/  
 
 Guiness World Record for higest possible cholesterol level cross checking. 
