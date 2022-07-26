@@ -1,7 +1,7 @@
 # Cardiovascular-Disease-Prediction-Machine-Learning-Model-with-App-deploy-script
 
 ## Project Description 
-This is a machine learning model to predict where a person has cardiovascular disease based on several criterion. An application based on the the best predicting model is developed using Streamlit after performing a sequence of steps from Exploratory Data Analysis(EDA), features selection to model training. 
+This is a machine learning model to predict whether a person has cardiovascular disease based on several criterion. An application based on the the best predicting model is developed using Streamlit after performing a sequence of steps from Exploratory Data Analysis(EDA), features selection to model training. 
   
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
  ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
